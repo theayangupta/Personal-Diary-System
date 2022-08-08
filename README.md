@@ -1,5 +1,5 @@
-# Personal-Diary-System
-A C++ based Personal Diary System with Graphics implementation having the following functionalities:
+# Personal-Diary-Management-System
+A C++ based Personal Diary Management System with Graphics implementation having the following functionalities:
 
 1. Add record for any day: Meeting Details like Time, Date, Person or Event, Place To Visit
 2. View all records
